@@ -1,4 +1,4 @@
-# Fellahty (anciennement AgriWork) 🌾
+# Fellahty  🌾
 
 Fellahty est une application mobile révolutionnaire conçue pour transformer et moderniser le secteur agricole en connectant directement les agriculteurs, les ouvriers agricoles et les propriétaires d'équipements. 
 
