@@ -72,7 +72,6 @@ class _RegisterScreenState extends State<RegisterScreen> {
       {'value': 'farmer', 'label': t.get('farmer'), 'icon': Icons.agriculture},
       {'value': 'worker', 'label': t.get('worker'), 'icon': Icons.pan_tool},
       {'value': 'equipment_owner', 'label': t.get('equipment_owner'), 'icon': Icons.agriculture},
-      {'value': 'admin', 'label': t.get('admin_panel'), 'icon': Icons.admin_panel_settings},
     ];
 
     return Scaffold(

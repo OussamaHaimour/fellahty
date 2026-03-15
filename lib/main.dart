@@ -13,7 +13,7 @@ void main() async {
     debugPrint('Firebase init error: $e');
   }
   // Initialize notifications
-  await NotificationService.initialize(); // Added NotificationService.initialize()
+  await NotificationService.initialize(); 
   // Load saved language before app starts
   await appLocale.loadSavedLanguage();
   runApp(const FellahtyApp());
